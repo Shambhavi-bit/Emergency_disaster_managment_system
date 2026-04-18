@@ -1,9 +1,13 @@
 **📌 Project Overview**
 The Emergency–Disaster Management System is a web-based platform built using Advanced Java (JSP/Servlets), Apache Tomcat, and MySQL.
+
 It helps government agencies and communities to efficiently handle:
 
+
 Emergency alerts
+
 Disaster reporting
+
 Rescue operations
 Resource allocation
 Admin & User coordination
